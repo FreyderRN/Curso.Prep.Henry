@@ -51,7 +51,7 @@ Iniciaremos creando una carpeta desde la consola llamada: "CarpetaHenry"
 Para ello primero iremos a la carpeta de nivel superior, escribe en la consola:
 
 ```bash
-  cd ~
+  cd ~ 
 ```
 
 y presiona Enter. Una vez estés en el nivel superior, escribe:
@@ -61,6 +61,8 @@ y presiona Enter. Una vez estés en el nivel superior, escribe:
 ```
 
 y presiona Enter. ¡Felicitaciones, has creado un directorio!
+
+ESTA CARPETA SE CREA PARA ESTE EJERCICIO Y SE HACE DESDE GITBASH
 
 ### Crear un Repositorio
 
